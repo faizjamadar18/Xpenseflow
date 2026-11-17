@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <!-- <img src="public/logo.png" alt="Welth Logo" width="180"/> -->
   <h1 align="center">Welth — For Smarter Money</h1>
@@ -399,4 +399,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 =======
 # Install dependencies
 npm install
->>>>>>> 76a220c3560c496bf418ffec756453fe07ceb27a
+
