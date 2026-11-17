@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="public/logo.png" alt="Welth Logo" width="180"/> -->
-  <h1 align="center">Welth — For Smarter Money</h1>
+  <h1 align="center">Xpenseflow — For Smarter Money</h1>
   <p align="center"><strong></strong></p>
   <p align="center">AI-Powered Personal Finance — Receipt Scanning + Budget Alerts + Monthly Insights</p>
 
